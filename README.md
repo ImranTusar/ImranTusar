@@ -1,3 +1,4 @@
+![I am  Android App Developer & Web developer.](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/274042484_694179235076827_2178843473201285089_n.jpg?stp=dst-jpg_p960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGyaVp6lbs3iquQEb-9TtBBTfNggo-1rtBN82CCj7Wu0AkwD5qVKsEbiy6na0ICjQnDOXZNywoly7_wnjokfCKi&_nc_ohc=2TCcKsiXuj4AX_hlati&_nc_ht=scontent.fdac136-1.fna&oh=00_AT8xkTQ4CV9FfPfsLOWshl133HgHxl5VZRJ5XOtAzQ5c2Q&oe=62A91BFC)
 ### Hi there 👋, I am Imran
 #### I am  Android App Developer & Web developer.
 ![I am  Android App Developer & Web developer.](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/274042484_694179235076827_2178843473201285089_n.jpg?stp=dst-jpg_p960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGyaVp6lbs3iquQEb-9TtBBTfNggo-1rtBN82CCj7Wu0AkwD5qVKsEbiy6na0ICjQnDOXZNywoly7_wnjokfCKi&_nc_ohc=2TCcKsiXuj4AX_hlati&_nc_ht=scontent.fdac136-1.fna&oh=00_AT8xkTQ4CV9FfPfsLOWshl133HgHxl5VZRJ5XOtAzQ5c2Q&oe=62A91BFC)
@@ -16,9 +17,5 @@ Skills: JAVA/XML/HTML/CSS/PHP/JAVA SCRIPT/Mysql.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ImranTusar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ImranTusar)  
-
-  
 
