@@ -1,8 +1,6 @@
 ![I am  Android App Developer & Web developer.](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/274042484_694179235076827_2178843473201285089_n.jpg?stp=dst-jpg_p960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGyaVp6lbs3iquQEb-9TtBBTfNggo-1rtBN82CCj7Wu0AkwD5qVKsEbiy6na0ICjQnDOXZNywoly7_wnjokfCKi&_nc_ohc=2TCcKsiXuj4AX_hlati&_nc_ht=scontent.fdac136-1.fna&oh=00_AT8xkTQ4CV9FfPfsLOWshl133HgHxl5VZRJ5XOtAzQ5c2Q&oe=62A91BFC)
 ### Hi there 👋, I am Imran
 #### I am  Android App Developer & Web developer.
-![I am  Android App Developer & Web developer.](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/274042484_694179235076827_2178843473201285089_n.jpg?stp=dst-jpg_p960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGyaVp6lbs3iquQEb-9TtBBTfNggo-1rtBN82CCj7Wu0AkwD5qVKsEbiy6na0ICjQnDOXZNywoly7_wnjokfCKi&_nc_ohc=2TCcKsiXuj4AX_hlati&_nc_ht=scontent.fdac136-1.fna&oh=00_AT8xkTQ4CV9FfPfsLOWshl133HgHxl5VZRJ5XOtAzQ5c2Q&oe=62A91BFC)
-
 I regard myself to be a very open minded person, ready for new challenge, especially when it comes to technology. People consider me to be a social, temperamental person who doesn't hesitate in giving my opinion for what I think and believe in, honest and respectfully.
 
 Skills: JAVA/XML/HTML/CSS/PHP/JAVA SCRIPT/Mysql.
